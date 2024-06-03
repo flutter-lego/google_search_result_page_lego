@@ -2,7 +2,7 @@
 [![pub package](https://img.shields.io/pub/v/google_search_result_page_lego.svg)](https://pub.dartlang.org/packages/google_search_result_page_lego)
 
 # google_search_result_page_lego
-description here
+google search result page template under simple architecture framework.
 
 ##  Installation
 1. open terminal in the lego project root directory, enter the following command for install cli.
@@ -16,5 +16,5 @@ lego create
 lego add google_search_result_page_lego
 ```
 
-## Usage
-Usage here
+## Screenshots
+![](https://github.com/flutter-lego/google_search_result_page_lego/assets/21379657/0188b2d8-5259-46a6-b9cd-20cd34e5c746)
