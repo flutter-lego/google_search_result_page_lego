@@ -1,5 +1,5 @@
 name: google_search_result_page_lego
-description: "google search result page lego"
+description: "lego is all you need"
 #publish_to: 'none'
 repository: https://github.com/flutter-lego/google_search_result_page_lego
 
@@ -11,24 +11,16 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_svg: #@add
-  gap: #@add
-  june_flow_util:
+  june_flow_util: #@add
   styled_widget: #@add
   modal_bottom_sheet: #@add
-  keyboard_attachable: #@add
-  flutter_zoom_drawer: #@add
-  flutter_screenutil:
-  bot_toast:
+  gap: #@add
+  flutter_svg: #@add
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints:
-  screenutil_lego: #@add
-  bot_toast_lego: #@add
-  widget_binding_lego: #@add
-  theme_config_lego:
 
 flutter:
   assets:
